@@ -21,6 +21,7 @@
     "@radix-ui/react-toast": "^1.2.6",
     "axios": "^1.7.9",
     "class-variance-authority": "^0.7.1",
+    "client": "file:",
     "clsx": "^2.1.1",
     "cobe": "^0.6.3",
     "lucide-react": "^0.474.0",
